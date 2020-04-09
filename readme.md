@@ -1,6 +1,7 @@
 # Leetcode Solutions
 
 - Add Two Numbers
+- Backspace String Compare
 - Best Time to Buy and Sell Stock II
 - Big Countries
 - Counting Elements
