@@ -11,6 +11,7 @@
 - Maximum Depth of Binary Tree
 - Max Subarray
 - Middle of the Linked List
+- Min Stack
 - Move Zeroes
 - Reverse Integer
 - Reverse String
