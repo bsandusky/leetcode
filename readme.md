@@ -6,6 +6,7 @@
 - Big Countries
 - Counting Elements
 - Defanging an IP Address
+- Diameter of Binary Tree
 - Group Anagrams
 - Happy Number
 - Maximum Depth of Binary Tree
