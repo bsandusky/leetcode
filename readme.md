@@ -4,6 +4,7 @@
 - [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)
 - [Big Countries](https://leetcode.com/problems/big-countries)
+- [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 - [Counting Elements](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3289/)
 - [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)
 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
