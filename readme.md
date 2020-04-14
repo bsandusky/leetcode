@@ -16,6 +16,7 @@
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 - [Min Stack](https://leetcode.com/problems/min-stack)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes)
+- [Perform String Shift](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/)
 - [Reverse Integer](https://leetcode.com/problems/reverse-integer)
 - [Reverse String](https://leetcode.com/problems/reverse-string)
 - [Single Number](https://leetcode.com/problems/single-number)
