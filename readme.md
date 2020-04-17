@@ -16,6 +16,7 @@
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 - [Min Stack](https://leetcode.com/problems/min-stack)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes)
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [Perform String Shift](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [Reverse Integer](https://leetcode.com/problems/reverse-integer)
