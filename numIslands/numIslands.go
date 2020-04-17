@@ -4,6 +4,10 @@ import (
 	"bytes"
 )
 
+// This works perfectly fine locally, but refuses to work on the Leetcode runner.
+// It seems that land is never assigned when running in Leetcode so none of logic is
+// actually being checked, as there are no values to compare. I am not sure why this is.
+
 func numIslands(grid [][]byte) int {
 
 	var count int
