@@ -14,6 +14,7 @@
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
+- [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 - [Min Stack](https://leetcode.com/problems/min-stack)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes)
 - [Number of Islands](https://leetcode.com/problems/number-of-islands/)
