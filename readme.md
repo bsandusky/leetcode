@@ -22,6 +22,7 @@
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [Reverse Integer](https://leetcode.com/problems/reverse-integer)
 - [Reverse String](https://leetcode.com/problems/reverse-string)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [Single Number](https://leetcode.com/problems/single-number)
 - [Two Sum](https://leetcode.com/problems/two-sum)
 - [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string)
