@@ -5,6 +5,7 @@
 - [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)
 - [Big Countries](https://leetcode.com/problems/big-countries)
 - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/532/week-5/3315/)
 - [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 - [Counting Elements](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3289/)
 - [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)
